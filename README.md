@@ -1,39 +1,27 @@
-# Assignment1
+# Vecta Corporation Website Assignment
 
-## Overview
+## Description
 
-This project is a part of **CS 648 - Web Development** at San Diego State University. The purpose of this assignment is to demonstrate the basic skills acquired in web development, including the creation of a simple web page using HTML.
+This project is a simple HTML page created as part of an assignment. The page provides information about Vecta Corporation, including their services, client testimonials, and management team details. The content is structured using various HTML elements such as headings, paragraphs, and line breaks.
 
-## Project Details
+## Project Structure
 
-This web page is titled **"THIS IS MY ASSIGNMENT 1"** and serves as an introduction to web programming concepts. The content includes:
+- **HTML File**: `index.html`
+  - Contains the main content of the Vecta Corporation webpage.
+  
+- **README File**: `README.md`
+  - Provides an overview of the project, including the purpose, structure, and content details.
 
-- A welcome message.
-- A brief introduction about myself, Renvil Dsa, a Master of Science in Computer Science student at San Diego State University.
-- A note of appreciation to Zak Sir for his excellent video tutorial, which provided the necessary guidance to develop this page.
+## How to Use
 
-## Structure
+1. Open the `index.html` file in any web browser to view the Vecta Corporation webpage.
+2. Review the content provided to understand Vecta Corporation's services, client feedback, and management team.
 
-The project consists of a single HTML file:
+## Content Overview
 
-- **index.html**: Contains the basic structure of the web page, including the title, heading, and a paragraph with personal information.
+### Vecta Corporation
 
-## Usage
-
-To view the web page:
-
-1. Clone the repository or download the `index.html` file.
-2. Open the `index.html` file in any web browser.
-
-## Acknowledgements
-
-Special thanks to Zak Sir for the comprehensive video tutorial that was instrumental in developing this page.
-
----
-
-**Renvil Dsa**
-Master of Science in Computer Science  
-San Diego State University
-
-
-
+- **Welcome Message**: Introduction to the company and its approach to business growth.
+- **Our Solutions**: Detailed information about the three core services offered by Vecta Corporation:
+  - `vProspect 2.0`: Target audience research and branding strategy.
+  -
