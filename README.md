@@ -24,4 +24,12 @@ This project is a simple HTML page created as part of an assignment. The page pr
 - **Welcome Message**: Introduction to the company and its approach to business growth.
 - **Our Solutions**: Detailed information about the three core services offered by Vecta Corporation:
   - `vProspect 2.0`: Target audience research and branding strategy.
-  -
+  - `vConvert 2.0`: User-friendly information architecture.
+  - `vRetain 1.0`: Customer relationship management and loyalty enhancement.
+- **Client Testimonials**: Positive feedback from satisfied clients, including Ferris Finkelstein (Founder and CEO of Dorknozzle) and Justin Case (CTO of IX Inc.).
+- **Contact Information**: Address and phone number of Vecta Corporation.
+- **Management Team**: Names and positions of key management team members.
+
+## Contact
+
+For any inquiries or further information, please refer to the contact details provided in the `index.html` file.
